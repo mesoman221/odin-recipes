@@ -2,8 +2,19 @@ body {
     background-color: red;
 }
 
+h1{
+    display: inline-block;
+    background-color: blue;
+    color: white;
+}
+
+img{
+    display: block;
+}
+
 h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     background-color: blue;
+    display: inline-block;
 }
