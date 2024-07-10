@@ -2,8 +2,19 @@ body {
     background-color: greenyellow;
 }
 
+img{
+    display: block;
+}
+
+h1 {
+    background-color: blanchedalmond;
+    display: inline-block;
+}
+
 h2 {
     font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    background-color: blanchedalmond;
 }
 
 p {
