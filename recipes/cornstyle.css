@@ -2,8 +2,19 @@ body {
     background-color: blanchedalmond;
 }
 
+img {
+    display: block;
+}
+
+h1{
+    display: inline-block;
+    background-color: white;
+}
+
 h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    background-color: white;
 }
 
 p {
