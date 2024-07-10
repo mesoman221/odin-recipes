@@ -3,3 +3,14 @@ body {
     text-align: center;
 }
 
+h1 {
+    background-color: aliceblue;
+    display: inline-block;
+    padding: 30px;
+}
+
+a {
+    display: block;
+    margin-bottom: 20px;
+}
+
